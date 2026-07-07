@@ -1,0 +1,6 @@
+{
+  "name": "Guia de Cores: Tendência Europeia",
+  "description": "Página de Downsell One-Click ultra-enxuta com design minimalista de luxo, integração técnica do pixel UTMify e widget de funil de vendas Hotmart.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
